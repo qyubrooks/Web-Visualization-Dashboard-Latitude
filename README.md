@@ -23,4 +23,4 @@ The website consists of 7 pages total, including:
 * A ["Data" page](#data-page) that:
   * Displays a responsive table containing the data used in the visualizations.
 
-[https://github.com/qyubrooks/Web-Visualization-Dashboard-Latitude]
+https://github.com/qyubrooks/Web-Visualization-Dashboard-Latitude
