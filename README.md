@@ -23,4 +23,17 @@ The website consists of 7 pages total, including:
 * A ["Data" page](#data-page) that:
   * Displays a responsive table containing the data used in the visualizations.
 
-https://github.com/qyubrooks/Web-Visualization-Dashboard-Latitude
+### Comparison Dashboard:
+![comparison](comparison.png)
+
+### Humidity Dashboard:
+![humidity](humidity.png)
+
+### Cloudiness Dashboard:
+![cloudiness](cloudiness.png)
+
+### Max Temperature Dashboard:
+![temperature](max_remperature.png)
+
+### Wind Speed Dashboard:
+![wind](wind_speed.png)
