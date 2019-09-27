@@ -30,10 +30,10 @@ The website consists of 7 pages total, including:
 ![humidity](humidity.png)
 
 ### Cloudiness Dashboard:
-![cloudiness](cloudiness.png)
+![cloudiness](cloudines.png)
 
 ### Max Temperature Dashboard:
-![temperature](max_remperature.png)
+![temperature](max_temperature.png)
 
 ### Wind Speed Dashboard:
 ![wind](wind_speed.png)
